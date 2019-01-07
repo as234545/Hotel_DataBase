@@ -3,7 +3,7 @@
 
 Overview:
 ------------------
- This project is a imaginative database that was build in three stages: first is gathring the data requirments and the transaction that will be made, second drew the EER digram third is bulding the database.
+ This project is a imaginative hotel database that was build in three stages: first is gathering the data requirements and the transaction that will be made, second drew the EER diagram third is building the database.
  
  PROJECT DEFINITION:
  ------------------
