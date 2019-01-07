@@ -3,7 +3,7 @@
 
 Overview:
 ------------------
- in this project is a imaginative database that was build in three stages: first is gathring the data requirments and the transaction that will be made, second drew the EER digram third is bulding the database.
+ This project is a imaginative database that was build in three stages: first is gathring the data requirments and the transaction that will be made, second drew the EER digram third is bulding the database.
  
  PROJECT DEFINITION:
  ------------------
